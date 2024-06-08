@@ -5,7 +5,11 @@
 
 Passionate Computer Science student at Alshorouk Academy, driven by a deep interest in the latest advancements in technology. With a strong foundation in programming and a desire to continuously learn, I am currently expanding my expertise in data science while exploring the realms of deep learning and machine learning. My goal is to acquire knowledge in the AI field and leverage it to contribute to innovative projects that positively impact society.
 
-## Portfolio 🌐
+## Projects 🌐
+
+### Face Matching API 🌟
+- This is a FastAPI-based project for E-Tourism, developed as a part of a graduation project.
+- [Check it out!](https://github.com/DavidAdelG/Face_Matching)
 
 ### M7aga3ady Podcast 🎙️
 - My true passion!
